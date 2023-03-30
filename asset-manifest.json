@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/greeting-oktell/static/css/main.433974bf.css",
-    "main.js": "/greeting-oktell/static/js/main.99c54013.js",
+    "main.js": "/greeting-oktell/static/js/main.9c430d8a.js",
     "static/js/787.0386467e.chunk.js": "/greeting-oktell/static/js/787.0386467e.chunk.js",
     "index.html": "/greeting-oktell/index.html",
     "main.433974bf.css.map": "/greeting-oktell/static/css/main.433974bf.css.map",
-    "main.99c54013.js.map": "/greeting-oktell/static/js/main.99c54013.js.map",
+    "main.9c430d8a.js.map": "/greeting-oktell/static/js/main.9c430d8a.js.map",
     "787.0386467e.chunk.js.map": "/greeting-oktell/static/js/787.0386467e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.433974bf.css",
-    "static/js/main.99c54013.js"
+    "static/js/main.9c430d8a.js"
   ]
 }
