@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/greeting-oktell/static/css/main.7294fbb7.css",
-    "main.js": "/greeting-oktell/static/js/main.15895288.js",
+    "main.css": "/greeting-oktell/static/css/main.86ca98d0.css",
+    "main.js": "/greeting-oktell/static/js/main.32916fb9.js",
     "static/js/787.0386467e.chunk.js": "/greeting-oktell/static/js/787.0386467e.chunk.js",
     "static/media/Logo.svg": "/greeting-oktell/static/media/Logo.22340d5ea9927920e5613835e6cf11c5.svg",
     "static/media/call-report-icon.svg": "/greeting-oktell/static/media/call-report-icon.d45586c162e48e86dacddd60607aaf18.svg",
     "static/media/monitoring-icon.svg": "/greeting-oktell/static/media/monitoring-icon.779a4b7fb4c6fb299266659f9eb306ab.svg",
+    "static/media/option-icon.svg": "/greeting-oktell/static/media/option-icon.35b5ec6c8d8d171b224a898f3b275caa.svg",
     "index.html": "/greeting-oktell/index.html",
+    "static/media/arrow-left.svg": "/greeting-oktell/static/media/arrow-left.ea4f2017581f7638e04ab0f3be702882.svg",
     "static/media/like.svg": "/greeting-oktell/static/media/like.2de27d981c18206896341ffbc9ba6c0d.svg",
     "static/media/dislike.svg": "/greeting-oktell/static/media/dislike.176d1084c13028a8f544df444c21f6e8.svg",
     "static/media/home-icon.svg": "/greeting-oktell/static/media/home-icon.55477637ee68fd5e942a988836e6e26a.svg",
-    "main.7294fbb7.css.map": "/greeting-oktell/static/css/main.7294fbb7.css.map",
-    "main.15895288.js.map": "/greeting-oktell/static/js/main.15895288.js.map",
+    "main.86ca98d0.css.map": "/greeting-oktell/static/css/main.86ca98d0.css.map",
+    "main.32916fb9.js.map": "/greeting-oktell/static/js/main.32916fb9.js.map",
     "787.0386467e.chunk.js.map": "/greeting-oktell/static/js/787.0386467e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7294fbb7.css",
-    "static/js/main.15895288.js"
+    "static/css/main.86ca98d0.css",
+    "static/js/main.32916fb9.js"
   ]
 }
