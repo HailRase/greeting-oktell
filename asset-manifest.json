@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/greeting-oktell/static/css/main.74fbf1b2.css",
-    "main.js": "/greeting-oktell/static/js/main.2523c8f3.js",
+    "main.css": "/greeting-oktell/static/css/main.c8f36ca3.css",
+    "main.js": "/greeting-oktell/static/js/main.4c3dc26a.js",
     "static/js/787.0386467e.chunk.js": "/greeting-oktell/static/js/787.0386467e.chunk.js",
     "static/media/Logo.svg": "/greeting-oktell/static/media/Logo.22340d5ea9927920e5613835e6cf11c5.svg",
     "static/media/option-icon.svg": "/greeting-oktell/static/media/option-icon.3bcabb7ea682a5f38983415df3ee81cc.svg",
@@ -10,17 +10,18 @@
     "static/media/call-report-icon.svg": "/greeting-oktell/static/media/call-report-icon.d45586c162e48e86dacddd60607aaf18.svg",
     "static/media/call-icon.svg": "/greeting-oktell/static/media/call-icon.7758a6b6d13db5ac627593513f0514bf.svg",
     "static/media/monitoring-icon.svg": "/greeting-oktell/static/media/monitoring-icon.779a4b7fb4c6fb299266659f9eb306ab.svg",
+    "static/media/excel-icon.svg": "/greeting-oktell/static/media/excel-icon.bf3d7d821daee386693c340e0ecb64b1.svg",
     "index.html": "/greeting-oktell/index.html",
     "static/media/arrow-left.svg": "/greeting-oktell/static/media/arrow-left.ea4f2017581f7638e04ab0f3be702882.svg",
     "static/media/like.svg": "/greeting-oktell/static/media/like.2de27d981c18206896341ffbc9ba6c0d.svg",
     "static/media/info-icon.svg": "/greeting-oktell/static/media/info-icon.3cf2cce655754648cdf95283b3f935be.svg",
     "static/media/home-icon.svg": "/greeting-oktell/static/media/home-icon.55477637ee68fd5e942a988836e6e26a.svg",
-    "main.74fbf1b2.css.map": "/greeting-oktell/static/css/main.74fbf1b2.css.map",
-    "main.2523c8f3.js.map": "/greeting-oktell/static/js/main.2523c8f3.js.map",
+    "main.c8f36ca3.css.map": "/greeting-oktell/static/css/main.c8f36ca3.css.map",
+    "main.4c3dc26a.js.map": "/greeting-oktell/static/js/main.4c3dc26a.js.map",
     "787.0386467e.chunk.js.map": "/greeting-oktell/static/js/787.0386467e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74fbf1b2.css",
-    "static/js/main.2523c8f3.js"
+    "static/css/main.c8f36ca3.css",
+    "static/js/main.4c3dc26a.js"
   ]
 }
