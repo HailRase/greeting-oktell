@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/greeting-oktell/static/css/main.74fbf1b2.css",
-    "main.js": "/greeting-oktell/static/js/main.8c092911.js",
+    "main.js": "/greeting-oktell/static/js/main.2523c8f3.js",
     "static/js/787.0386467e.chunk.js": "/greeting-oktell/static/js/787.0386467e.chunk.js",
     "static/media/Logo.svg": "/greeting-oktell/static/media/Logo.22340d5ea9927920e5613835e6cf11c5.svg",
     "static/media/option-icon.svg": "/greeting-oktell/static/media/option-icon.3bcabb7ea682a5f38983415df3ee81cc.svg",
@@ -16,11 +16,11 @@
     "static/media/info-icon.svg": "/greeting-oktell/static/media/info-icon.3cf2cce655754648cdf95283b3f935be.svg",
     "static/media/home-icon.svg": "/greeting-oktell/static/media/home-icon.55477637ee68fd5e942a988836e6e26a.svg",
     "main.74fbf1b2.css.map": "/greeting-oktell/static/css/main.74fbf1b2.css.map",
-    "main.8c092911.js.map": "/greeting-oktell/static/js/main.8c092911.js.map",
+    "main.2523c8f3.js.map": "/greeting-oktell/static/js/main.2523c8f3.js.map",
     "787.0386467e.chunk.js.map": "/greeting-oktell/static/js/787.0386467e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74fbf1b2.css",
-    "static/js/main.8c092911.js"
+    "static/js/main.2523c8f3.js"
   ]
 }
