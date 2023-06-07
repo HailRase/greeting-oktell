@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/greeting-oktell/static/css/main.46251a67.css",
-    "main.js": "/greeting-oktell/static/js/main.3b17e26b.js",
-    "static/js/787.0386467e.chunk.js": "/greeting-oktell/static/js/787.0386467e.chunk.js",
+    "main.css": "/greeting-oktell/static/css/main.16d6b7d7.css",
+    "main.js": "/greeting-oktell/static/js/main.93b111a6.js",
+    "static/js/651.f9aab76e.chunk.js": "/greeting-oktell/static/js/651.f9aab76e.chunk.js",
+    "static/media/loader.svg": "/greeting-oktell/static/media/loader.78449585fb79eca20844a84f2f7b45c0.svg",
     "static/media/option-icon.svg": "/greeting-oktell/static/media/option-icon.d76917271174d046aa6695c349351893.svg",
     "static/media/excel-icon.svg": "/greeting-oktell/static/media/excel-icon.0515bc8fcc674377861f2b47a68ca1d3.svg",
     "index.html": "/greeting-oktell/index.html",
@@ -11,12 +12,12 @@
     "static/media/like.svg": "/greeting-oktell/static/media/like.2de27d981c18206896341ffbc9ba6c0d.svg",
     "static/media/info-icon.svg": "/greeting-oktell/static/media/info-icon.3cf2cce655754648cdf95283b3f935be.svg",
     "static/media/home-icon.svg": "/greeting-oktell/static/media/home-icon.55477637ee68fd5e942a988836e6e26a.svg",
-    "main.46251a67.css.map": "/greeting-oktell/static/css/main.46251a67.css.map",
-    "main.3b17e26b.js.map": "/greeting-oktell/static/js/main.3b17e26b.js.map",
-    "787.0386467e.chunk.js.map": "/greeting-oktell/static/js/787.0386467e.chunk.js.map"
+    "main.16d6b7d7.css.map": "/greeting-oktell/static/css/main.16d6b7d7.css.map",
+    "main.93b111a6.js.map": "/greeting-oktell/static/js/main.93b111a6.js.map",
+    "651.f9aab76e.chunk.js.map": "/greeting-oktell/static/js/651.f9aab76e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46251a67.css",
-    "static/js/main.3b17e26b.js"
+    "static/css/main.16d6b7d7.css",
+    "static/js/main.93b111a6.js"
   ]
 }
