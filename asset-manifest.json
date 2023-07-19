@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.8bc5461c.css",
-    "main.js": "./static/js/main.0895b911.js",
-    "static/js/651.f9aab76e.chunk.js": "./static/js/651.f9aab76e.chunk.js",
-    "static/media/loadergif.gif": "./static/media/loadergif.bbdaf3186142af65f1fa.gif",
-    "static/media/option-icon.svg": "./static/media/option-icon.d76917271174d046aa6695c349351893.svg",
-    "static/media/excel-icon.svg": "./static/media/excel-icon.0515bc8fcc674377861f2b47a68ca1d3.svg",
-    "static/media/arrow-left.svg": "./static/media/arrow-left.ea4f2017581f7638e04ab0f3be702882.svg",
-    "static/media/arrow-down.svg": "./static/media/arrow-down.1edfab86f389055c97b80ec14e52f85c.svg",
-    "index.html": "./index.html",
-    "static/media/like.svg": "./static/media/like.2de27d981c18206896341ffbc9ba6c0d.svg",
-    "static/media/info-icon.svg": "./static/media/info-icon.3cf2cce655754648cdf95283b3f935be.svg",
-    "static/media/home-icon.svg": "./static/media/home-icon.55477637ee68fd5e942a988836e6e26a.svg",
-    "main.8bc5461c.css.map": "./static/css/main.8bc5461c.css.map",
-    "main.0895b911.js.map": "./static/js/main.0895b911.js.map",
-    "651.f9aab76e.chunk.js.map": "./static/js/651.f9aab76e.chunk.js.map"
+    "main.css": "/greeting-oktell/static/css/main.8bc5461c.css",
+    "main.js": "/greeting-oktell/static/js/main.2ebc0ada.js",
+    "static/js/651.f9aab76e.chunk.js": "/greeting-oktell/static/js/651.f9aab76e.chunk.js",
+    "static/media/loadergif.gif": "/greeting-oktell/static/media/loadergif.bbdaf3186142af65f1fa.gif",
+    "static/media/option-icon.svg": "/greeting-oktell/static/media/option-icon.d76917271174d046aa6695c349351893.svg",
+    "static/media/excel-icon.svg": "/greeting-oktell/static/media/excel-icon.0515bc8fcc674377861f2b47a68ca1d3.svg",
+    "index.html": "/greeting-oktell/index.html",
+    "static/media/arrow-left.svg": "/greeting-oktell/static/media/arrow-left.ea4f2017581f7638e04ab0f3be702882.svg",
+    "static/media/arrow-down.svg": "/greeting-oktell/static/media/arrow-down.1edfab86f389055c97b80ec14e52f85c.svg",
+    "static/media/like.svg": "/greeting-oktell/static/media/like.2de27d981c18206896341ffbc9ba6c0d.svg",
+    "static/media/info-icon.svg": "/greeting-oktell/static/media/info-icon.3cf2cce655754648cdf95283b3f935be.svg",
+    "static/media/home-icon.svg": "/greeting-oktell/static/media/home-icon.55477637ee68fd5e942a988836e6e26a.svg",
+    "main.8bc5461c.css.map": "/greeting-oktell/static/css/main.8bc5461c.css.map",
+    "main.2ebc0ada.js.map": "/greeting-oktell/static/js/main.2ebc0ada.js.map",
+    "651.f9aab76e.chunk.js.map": "/greeting-oktell/static/js/651.f9aab76e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8bc5461c.css",
-    "static/js/main.0895b911.js"
+    "static/js/main.2ebc0ada.js"
   ]
 }
